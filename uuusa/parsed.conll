@@ -1,0 +1,13 @@
+### 	1	1
+1	Все	весь	PRON	DT	_	2	nsubj	_	_
+2	прошло	пройти	VERB	VBC	_	0	root	_	_
+3	плохо	плохо	ADV	RB	_	2	advmod	_	_
+4	,	,	PUNCT	,	_	8	punct	_	_
+5	зато	зато	SCONJ	IN	_	8	mark	_	_
+6	мы	мы	PRON	PRP	_	8	nsubj	_	_
+7	не	не	PART	NEG	_	8	advmod	_	_
+8	хотим	хотеть	VERB	VBC	_	2	advcl	_	_
+9	после	после	ADP	IN	_	10	case	_	_
+10	этого	это	PRON	DT	_	8	obl	_	_
+11	расстраиваться	расстраиваться	VERB	VB	_	8	xcomp	_	SpaceAfter=No
+
